@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: June 10-11
-- Facilitator: @juligu
+- Facilitator: @juligu 
 
 ## Class Resources
 
