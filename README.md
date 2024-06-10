@@ -2,6 +2,7 @@
 
 - Class Date: June 10-11
 - Facilitator: @juligu
+- Attendance: @Karthikbalamano
 
 ## Class Resources
 
